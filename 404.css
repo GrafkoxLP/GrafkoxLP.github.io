@@ -54,3 +54,7 @@ body {
     text-transform: capitalize;
     border-radius: 5px;
 }
+
+#button:hover {
+    background-color: #5432;
+}
