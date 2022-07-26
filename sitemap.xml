@@ -4,7 +4,6 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
 
 <url>
@@ -13,14 +12,19 @@
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://grafkox.de/about-me/</loc>
+  <loc>https://contact.grafkox.de/</loc>
   <lastmod>2022-06-12T13:48:14+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://grafkox.de/index.html</loc>
-  <lastmod>2022-07-17T14:52:36+00:00</lastmod>
-  <priority>0.80</priority>
+  <loc>https://grafkox.de/about-me/</loc>
+  <lastmod>2022-06-12T13:48:14+00:00</lastmod>
+  <priority>0.75</priority>
+</url>
+<url>
+  <loc>https://dead-city.grafkox.de/</loc>
+  <lastmod>2022-06-12T13:48:14+00:00</lastmod>
+  <priority>0.70</priority>
 </url>
 
 
